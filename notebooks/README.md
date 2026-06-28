@@ -1,0 +1,1 @@
+folder untuk notebook analisis 
